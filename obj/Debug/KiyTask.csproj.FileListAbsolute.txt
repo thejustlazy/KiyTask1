@@ -1,0 +1,7 @@
+C:\Users\1111\source\repos\KiyTask\KiyTask\obj\Debug\KiyTask.csprojAssemblyReference.cache
+C:\Users\1111\source\repos\KiyTask\KiyTask\obj\Debug\KiyTask.csproj.CoreCompileInputs.cache
+C:\Users\1111\source\repos\KiyTask\KiyTask\bin\Debug\KiyTask.exe.config
+C:\Users\1111\source\repos\KiyTask\KiyTask\bin\Debug\KiyTask.exe
+C:\Users\1111\source\repos\KiyTask\KiyTask\bin\Debug\KiyTask.pdb
+C:\Users\1111\source\repos\KiyTask\KiyTask\obj\Debug\KiyTask.exe
+C:\Users\1111\source\repos\KiyTask\KiyTask\obj\Debug\KiyTask.pdb
